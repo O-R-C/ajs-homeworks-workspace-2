@@ -18,6 +18,13 @@
   "bugs": {
     "url": "https://github.com/O-R-C/ajs-homeworks-workspace-2/issues"
   },
-  "homepage": "https://github.com/O-R-C/ajs-homeworks-workspace-2#readme"
+  "homepage": "https://github.com/O-R-C/ajs-homeworks-workspace-2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8"
+  },
+  "dependencies": {
+    "core-js": "^3.35.0"
+  }
 }
-
